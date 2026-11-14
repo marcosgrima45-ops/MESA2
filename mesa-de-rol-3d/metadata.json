@@ -1,0 +1,6 @@
+{
+  "name": "Mesa de Rol 3D",
+  "description": "Mesa virtual de rol con simulación de dados poliédricos 3D, gestor de personajes y enemigos, mapas tácticos, bloc de notas y atmósfera con banda sonora y caja de efectos de sonido.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

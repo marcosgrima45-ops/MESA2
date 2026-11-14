@@ -1,0 +1,27 @@
+@import "tailwindcss";
+
+body {
+  font-family: 'Rajdhani', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+}
+
+h1, h2, h3, .font-cinzel {
+  font-family: 'Cinzel', serif;
+}
+
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: #15100a;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #6e5533;
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #a8834c;
+}
